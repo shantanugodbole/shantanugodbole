@@ -26,3 +26,6 @@ I am probably listening to something on [![Spotify](https://img.shields.io/badge
 <p align="center">
 <img src="https://i.makeagif.com/media/5-05-2017/ADwZDb.gif" /></p>
 
+<p align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=shantanugodbole.shantanugodbole" alt="visitor badge"/>       
+</p>
