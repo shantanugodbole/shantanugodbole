@@ -1,7 +1,7 @@
 ### Oh, you finally found this corner of the web!  Hi 👋 I'm Shantanu
 
 I'm an undergrad student 👱‍♂️ pursuing my Computer Science degree in Mumbai.<br> 
-I tried my hand at Flutter and absoluteley fell in love with it, also my favorite color is blue, so a match made in heaven right?! 💙. <br>
+I tried my hand at Flutter and absolutely fell in love with it, also my favorite color is blue, so a match made in heaven right?! 💙. <br>
 Knack for making code work, learning how to make that code efficient 👨‍💻. 
 
 - 🔭 I’m currently working as a Flutter Intern at FOLK Developers 
