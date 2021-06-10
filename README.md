@@ -19,7 +19,6 @@ I am probably listening to something on [![Spotify](https://img.shields.io/badge
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shantanugodbole12/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shantanugodbole2000@gmail.com)
 [![Stackoverflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/13581076/shangod)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shangod12)
 
 <p align = "center">When that one error is unsolvable after hours of Stackoverflow :( </p>
 
